@@ -71,6 +71,7 @@ npm run lint -- --fix
 ├── tests                      # 测试
 ├── .env.xxx                   # 环境变量配置
 ├── .eslintrc.js               # eslint 配置项
+├── .travis.yml                # 自动化CI配置
 ├── .babelrc                   # babel-loader 配置
 ├── vue.config.js              # vue-cli 配置
 ├── postcss.config.js          # postcss 配置
