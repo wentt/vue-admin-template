@@ -79,7 +79,7 @@ npm run lint -- --fix
 ```
 
 ## 主要技术栈
-- [ES2015+]() ECMAScript® 2015+
+- [ES2015+](https://es6.ruanyifeng.com/) ECMAScript® 2015+
 - [vue](https://cn.vuejs.org/) JS框架
 - [vuex](https://vuex.vuejs.org/zh/) vue状态管理模式
 - [vue-router](https://router.vuejs.org/zh/) vue路由管理器
